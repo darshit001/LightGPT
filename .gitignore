@@ -1,0 +1,8 @@
+.venv
+.git.
+__pycache__
+.images
+sse
+.database
+.uploaded_pdfs
+.env
